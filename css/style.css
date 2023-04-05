@@ -1,0 +1,484 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:aqua;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    position: relative;
+    bottom: 100px;
+    top: 50px;    
+}
+h2{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.container{
+    padding: 20px;
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    align-items: center;
+    margin: auto;
+    border-radius: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.contact-icon{
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: lightblue;
+    width: 100%;
+    height: 100px;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.fa-solid {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 18px;
+    padding-bottom: 20px;
+    background-color:white;
+    width: 50px;
+    height: 52px;
+    border-radius: 30px;
+    font-size: 25px;
+}
+.vicky {
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 25px;
+
+    
+}
+.attendance-2{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+
+}
+.app-1{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+
+}
+.time{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 10px;;
+
+}
+.new{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow:     10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.Settings-1{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 15px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+.fa-thin{
+    background-color: blue;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    width: 30px;
+    height: 30px;
+    color: white;
+    padding-left: 5px;
+    margin-right: 10px;
+
+}
+.container-1{
+    padding: 20px;
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    align-items: center;
+    margin: auto;
+    border-radius: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h2{
+   font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 10px;
+}
+input{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding:10px;
+}
+.gen-1{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.app-update{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.security{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.switch{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.account{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.btn button{
+    background-color: aqua;
+    width: 100%;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 5px;  
+}
+.container-2{
+    padding: 20px;
+    width: 350px;
+    height: 750px;
+    background-color: white;
+    align-items: center;
+    margin: auto;
+    border-radius: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.roll-call{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.blake{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    justify-content: space-around;
+}
+
+ button{
+    background-color: lightgreen;
+    width: 10%;
+    font-size: 17px;
+    padding-bottom: 20px;
+    color: white;
+    height: 20px;
+    padding-bottom: 20px;
+    font-size: 17px;  
+}
+.button button{
+    background-color: aqua;
+    color: white;
+    width: 30%;
+    padding: 20px;
+    font-size: 17px;
+    border-radius: 5px;
+}
+.button{
+    display: flex;
+    justify-content: space-between;
+}
+    
+
+.denise{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    justify-content: space-around;
+}
+.aron{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    justify-content: space-around;
+}
+.oliver{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    justify-content: space-around;
+}
+.angela{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    justify-content: space-around;
+}
+.david{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    justify-content: space-around;
+}
+.jim{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    justify-content: space-around;
+}
+.megan{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    justify-content: space-around;
+}
+.tim{
+    display: flex;
+    background-color: rgb(250, 249, 249);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    box-shadow: 10rem;
+    border-bottom: rgb(184, 163, 163) solid 3px;
+    border-right: rgb(177, 161, 161) solid 3px;
+    height: 60px;
+    margin-bottom: 5px;
+    margin-top: px;
+    justify-content: space-around;
+}
+.buttons button{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 50px;   
+}
+h3{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 10px; 
+}
+.buttons-1 button{
+    background-color:red;
+    color: white;
+    padding-right: 25px; 
+    padding-left: 10px;
+    width: 10%;  
+    padding-bottom: 20px;
+    font-size: 17px;
+}
+.container-4{
+    padding: 20px;
+    width: 550px;
+    height: 750px;
+    background-color: white;
+    align-items: center;
+    margin: auto;
+    border-radius: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h4{
+    text-transform: uppercase;
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid;
+}
+table {
+    width: 100%;
+    border-radius: 10px;
+  }
+ th {
+    height: 70px;
+    font-size: 20px;
+    text-align: left;
+  }
+  td {
+    height: 70px;
+    text-align: center;
+  }
+  th, td {
+    border-bottom: 1px solid grey;
+  }
+  tr:nth-child(even) {background-color: lightblue;}
+  
+  th {
+    background-color: lightcoral;
+    color: white;
+  }
+  tr:hover {background-color: coral;}
+
+  
+   
+
+
